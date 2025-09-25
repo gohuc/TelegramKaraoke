@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "F8un5tyiBn0=",
+  "dgSpecHash": "Rd82GXoqLuo=",
   "success": true,
-  "projectFilePath": "C:\\Users\\sheeeeeesh\\Desktop\\karaoke\\tgbotkaraoke\\tgbotkaraoke\\tgbotkaraoke.csproj",
+  "projectFilePath": "C:\\Users\\sheeeeeesh\\Documents\\GitHub\\TelegramKaraoke\\tgbotkaraoke\\tgbotkaraoke\\tgbotkaraoke.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\sheeeeeesh\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\8.0.0\\microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",
     "C:\\Users\\sheeeeeesh\\.nuget\\packages\\microsoft.extensions.configuration.binder\\8.0.0\\microsoft.extensions.configuration.binder.8.0.0.nupkg.sha512",

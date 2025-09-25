@@ -466,11 +466,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\sheeeeeesh\\Desktop\\karaoke\\tgbotkaraoke\\tgbotkaraoke\\tgbotkaraoke.csproj",
+      "projectUniqueName": "C:\\Users\\sheeeeeesh\\Documents\\GitHub\\TelegramKaraoke\\tgbotkaraoke\\tgbotkaraoke\\tgbotkaraoke.csproj",
       "projectName": "tgbotkaraoke",
-      "projectPath": "C:\\Users\\sheeeeeesh\\Desktop\\karaoke\\tgbotkaraoke\\tgbotkaraoke\\tgbotkaraoke.csproj",
+      "projectPath": "C:\\Users\\sheeeeeesh\\Documents\\GitHub\\TelegramKaraoke\\tgbotkaraoke\\tgbotkaraoke\\tgbotkaraoke.csproj",
       "packagesPath": "C:\\Users\\sheeeeeesh\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\sheeeeeesh\\Desktop\\karaoke\\tgbotkaraoke\\tgbotkaraoke\\obj\\",
+      "outputPath": "C:\\Users\\sheeeeeesh\\Documents\\GitHub\\TelegramKaraoke\\tgbotkaraoke\\tgbotkaraoke\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

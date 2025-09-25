@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("tgbotkaraoke")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+472a069398d56e919bf1e6496c8a8afdc5e2fab3")]
 [assembly: System.Reflection.AssemblyProductAttribute("tgbotkaraoke")]
 [assembly: System.Reflection.AssemblyTitleAttribute("tgbotkaraoke")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

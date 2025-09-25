@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\sheeeeeesh\\Desktop\\karaoke\\tgbotkaraoke\\",
+  "WorkspaceRootPath": "C:\\Users\\sheeeeeesh\\Documents\\GitHub\\TelegramKaraoke\\tgbotkaraoke\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{896E442C-F2C7-4B03-BAAB-DF547DCC7FDB}|tgbotkaraoke\\tgbotkaraoke.csproj|c:\\users\\sheeeeeesh\\desktop\\karaoke\\tgbotkaraoke\\tgbotkaraoke\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{896E442C-F2C7-4B03-BAAB-DF547DCC7FDB}|tgbotkaraoke\\tgbotkaraoke.csproj|c:\\users\\sheeeeeesh\\documents\\github\\telegramkaraoke\\tgbotkaraoke\\tgbotkaraoke\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{896E442C-F2C7-4B03-BAAB-DF547DCC7FDB}|tgbotkaraoke\\tgbotkaraoke.csproj|solutionrelative:tgbotkaraoke\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -24,23 +24,22 @@
               "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\sheeeeeesh\\source\\repos\\mini game\\mini game\\Program.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\source\\repos\\mini game\\mini game\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\source\\repos\\mini game\\mini game\\Program.cs",
               "ToolTip": "C:\\Users\\sheeeeeesh\\source\\repos\\mini game\\mini game\\Program.cs",
-              "RelativeToolTip": "..\\..\\..\\source\\repos\\mini game\\mini game\\Program.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\source\\repos\\mini game\\mini game\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-18T17:27:33.519Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-18T17:27:33.519Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\sheeeeeesh\\Desktop\\karaoke\\tgbotkaraoke\\tgbotkaraoke\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\sheeeeeesh\\Documents\\GitHub\\TelegramKaraoke\\tgbotkaraoke\\tgbotkaraoke\\Program.cs",
               "RelativeDocumentMoniker": "tgbotkaraoke\\Program.cs",
-              "ToolTip": "C:\\Users\\sheeeeeesh\\Desktop\\karaoke\\tgbotkaraoke\\tgbotkaraoke\\Program.cs",
+              "ToolTip": "C:\\Users\\sheeeeeesh\\Documents\\GitHub\\TelegramKaraoke\\tgbotkaraoke\\tgbotkaraoke\\Program.cs",
               "RelativeToolTip": "tgbotkaraoke\\Program.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAqwBwAAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAqwHUAAABbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-18T16:29:49.555Z",
               "EditorCaption": ""

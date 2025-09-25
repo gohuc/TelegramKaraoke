@@ -115,7 +115,7 @@ class Program
                 try
                 {
                     await bot.SendAnimation(chatId, "https://media1.tenor.com/m/VwbsizCofagAAAAC/karaoke-metal.gif",
-                        caption: $"Извините , {userName} ");
+                        caption: "Извините, не нашёл подходящего видео поэтому только гифка");
                 }
                 catch
                 {
