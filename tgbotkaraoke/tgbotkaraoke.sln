@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36414.22 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tgbotkaraoke", "tgbotkaraoke\tgbotkaraoke.csproj", "{896E442C-F2C7-4B03-BAAB-DF547DCC7FDB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{896E442C-F2C7-4B03-BAAB-DF547DCC7FDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{896E442C-F2C7-4B03-BAAB-DF547DCC7FDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{896E442C-F2C7-4B03-BAAB-DF547DCC7FDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{896E442C-F2C7-4B03-BAAB-DF547DCC7FDB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {96E9AB33-41F4-402D-918A-16962138508F}
+	EndGlobalSection
+EndGlobal
